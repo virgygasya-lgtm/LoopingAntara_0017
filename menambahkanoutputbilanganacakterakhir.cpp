@@ -22,3 +22,6 @@ while (x <= 5)
     cout << "TI, Bilangan acak = " << x << endl;
     x = rand() % 10;
 }
+
+cout << "Bilangan acak while yang terakhir = " << x << endl;
+cout << endl;
