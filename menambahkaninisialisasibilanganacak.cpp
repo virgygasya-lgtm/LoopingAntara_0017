@@ -9,3 +9,7 @@ int main()
 
     return 0;
 }
+srand(time(0));
+
+// Nilai awal x = 1
+x = 1 + rand() % 10;
